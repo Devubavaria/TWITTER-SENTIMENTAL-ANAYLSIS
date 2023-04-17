@@ -12,7 +12,7 @@ flag: It refers to the query. If no such query exists, then it is NO QUERY.
 user: It refers to the name of the user that tweeted
 text: It refers to the text of the tweet
 
-##Twitter Sentiment Analysis: Project Pipeline
+## Twitter Sentiment Analysis: Project Pipeline
 The various steps involved in the Machine Learning Pipeline are:
 
 Import Necessary Dependencies
@@ -26,7 +26,7 @@ Function for Model Evaluation
 Model Building
 Model Evaluation
 
-###Key Takeaways
+### Key Takeaways
 
 Twitter Sentimental Analysis is used to identify as well as classify the sentiments that are expressed in the text source.
 Logistic Regression, SVM, and Naive Bayes are some of the ML algorithms that can be used for Twitter Sentimental Analysis.
